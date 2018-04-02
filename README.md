@@ -65,7 +65,7 @@ There will also be a Midterm and Final exam, both of which will constitue of lar
 
 ## Evaluation (subject to change)
 
-Evaluation will be based on Assignments, Quizzes, and the Final Exam.
+Evaluation will be based on Assignments, Quizzes, the Midterm and Final Exam.
 
 
 ## Materials
