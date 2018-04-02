@@ -43,7 +43,8 @@ Upon Completion of this course, students will be able to:
 ## Textbook (required):
 
 Database Systems – Introduction to Databases and Data Warehouses
-<cite>Jukic, Vrbsky, Nestorov</cite>
+
+<cite>*Jukic, Vrbsky, Nestorov*</cite>
 
 Available at the College Bookstore.<br>
 **ISBN-10:** 1943153191<br>
